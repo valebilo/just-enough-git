@@ -6,7 +6,9 @@ At Sharetribe almost everyone is somehow dealing with the code. That's the spiri
 
 This article was meant to be an internal document for our non-developers who have to small code changes every now and then, namely our designer and analytics expert. However, as this stuff might interest others, I decided to make the article in a form of a blog post.
 
-The best way to learn is by doing. That's why this tutorial contains also an interactive part. The tutorial can be found here https://github.com/sharetribe/just-enough-git. Feel free to make your own fork.
+The best way to learn is by doing. That's why this tutorial contains also an interactive part. The tutorial can be found here https://github.com/sharetribe/just-enough-git. Feel free to make your own fork. 
+
+Val's note - merging and rebasing can be confusing
 
 ## Prerequisite
 
