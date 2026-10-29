@@ -23,6 +23,7 @@ The article concentrates on branching. I expect that you already have the basic 
 * You know how to `git push` the commits to Github
 * You know how to `git pull` others' commits from Github
 * You know what is a code branch, although you may not be familiar with them
+Cool 
 
 That said, you already know quite a lot! However, to be efficient with Git, there are still a couple tricks you need to learn.
 
